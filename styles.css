@@ -1,3 +1,11 @@
+@font-face {
+    font-family: "CutOutOFFont";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('Fonts/CutOutOFFont/CutOutOFFont.otf') format('woff');
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
@@ -20,6 +28,7 @@ header {
 }
 
 header h1 {
+    font-family: 'CutOutOFFont';
     font-size: 4rem;
     margin-bottom: 20px;
 }
