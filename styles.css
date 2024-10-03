@@ -24,6 +24,10 @@ header h1 {
     margin-bottom: 20px;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .logo-container {
     margin: 20px 0;
 }
