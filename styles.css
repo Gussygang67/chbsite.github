@@ -87,7 +87,7 @@ html {
 .call-button {
     margin-top: 30px;
     background-color: rgba(255, 255, 255, 0.15);
-    border: 2px solid #ffffff;
+    border: 2px solid #000000;
     color: #ffffff;
     padding: 15px 30px;
     border-radius: 50px;
