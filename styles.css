@@ -144,7 +144,7 @@ nav ul li a:hover {
 }
 
 section#about {
-    background: url('Images/fon1.jpg') no-repeat center center;
+    background: url('images/fon1.jpg') no-repeat center center;
     background-size: cover;
     padding: 40px 20px;
     text-align: center;
@@ -171,7 +171,7 @@ section#about p {
 }
 
 .menu {
-    background: url('Images/fon2.jpg') no-repeat center center;
+    background: url('images/fon2.jpg') no-repeat center center;
     background-size: cover;
     padding: 40px 20px;
     text-align: center;
